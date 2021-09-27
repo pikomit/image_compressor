@@ -1,0 +1,5 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools"
+	package="fr.supernovae.pikomit.image_compressor">
+	<uses-sdk tools:overrideLibrary="androidx.heifwriter"/>
+</manifest>
